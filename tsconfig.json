@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "module": "amd",
+        "allowJs": true,
+        "checkJs": false
+    },
+    "exclude": [
+        "node_modules"
+    ]
+}
